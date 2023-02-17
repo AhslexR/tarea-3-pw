@@ -8,7 +8,8 @@
  
   
   # Capturas de pantalla
-  ![imag](img/captu.png)
+  ![imag](captu.png)
+  
   
 
 
