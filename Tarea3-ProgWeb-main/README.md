@@ -8,7 +8,7 @@
  
   
   # Capturas de pantalla
-  ![imag](captu.png)
+  ![imag](![Alt text](/relative/path/to/captu.png?raw=true "Optional Title"))
   
   
 
